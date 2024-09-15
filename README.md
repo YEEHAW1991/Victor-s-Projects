@@ -1,0 +1,1 @@
+This is a collection of projects I completed throughout my undergraduate years at NYU. Three projects that I have highlighted are a project involving train delay analysis in New York, mapping of Saturn's rings, and transforming Zernike polynomials. 
